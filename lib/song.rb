@@ -12,4 +12,10 @@ class Song
     song.artist = artist
  end
  
+ def knows_artist 
+    artist = Artist.new
+    artist.name = "Beyonce"
+    song.artist = artist
+ end 
+ 
  end 
