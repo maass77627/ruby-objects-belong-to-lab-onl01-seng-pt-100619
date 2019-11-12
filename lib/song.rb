@@ -2,7 +2,7 @@ class Song
   
   attr_accessor :title
   
-  son
+  song = Song.new 
  
 
  end 
