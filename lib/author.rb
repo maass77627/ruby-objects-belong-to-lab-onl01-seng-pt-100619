@@ -7,4 +7,3 @@ class Author
  author = Author.new 
  
 
-end 
